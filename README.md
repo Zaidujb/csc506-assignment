@@ -1,2 +1,2 @@
-# csc506-assignment
+# csc506-assignment.
 Web development.
